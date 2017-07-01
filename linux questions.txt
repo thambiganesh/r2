@@ -1,0 +1,234 @@
+
+1.what is ldap 
+2.port no for ldap 
+3.fields in vmstat 
+4.how to check which process consuming more swap space 
+5.how can you solve the issue ssh is not working 
+6.if ilo is not working how can you troubleshoot ssh problem 
+7.what is initrd 
+8.what will do after kernel loading 
+9.how can you load the kernel modules 
+10.what is the difference b/w kernel module and kernel driver 
+11.there are 1000 packages installed how can you  make yum update by exclude 900 packages   
+12.how can you set user min no.of days to passwd change is 0 and max no.of days is 60 
+13.how to set passwd length is min 6 max 10 
+
+2nd interview 
+
+what is your daily process 
+what type of issues you got 
+what type of network issues you get 
+how can you solve the ssh is not available issue 
+how can you log in to the console 
+how can you apply the pachings remotely 
+how can you configure the yum online/offline repositories 
+how can you register linux server with RHN 
+how to configure nfs service 
+what is rpcbind purpose 
+Root user is not able to write any file in the file system what could be the reason 
+can you increase the SWAP Space ,if it is lvm how can you do, if it is standard partition how can you do
+ Samba configuration, port number and how it will work?
+ How to send mail someone from cmdline
+ Multipath configuration and port number
+ Sendmail and receive mail
+ How to see the files in particular package
+ I downloaded a package and I will update later through yum but where can I keep it package in yum
+ Rpcbind port number and use
+ How to check nfs data transferring
+ How to check user parameters or ulimit
+ Ulimit configuration
+ One customer not able to login in client,  what is the issue and how to resolve and what you have to ask customer?
+ How to check all posts are working? what is  command
+ How to change duplex of adapter
+ How to see the speed of all adapters
+ What is configuration of all adapters
+ And ips
+ How to see all modules
+ Nfs deamons
+ Printer deamon, driver,  configuration,
+ If printer hangup how to resolve
+ Printer log file
+ How to check luns
+ What is multipath and configuration file
+ Multipath port number
+ How to take backup before updates the securities and how to restore
+Physical how to restore backup file  /temp 2gb is looking full. But files are 1or 2kbs files only looking.  What is the reason and how to resolve it
+What is yum.conf
+Just done with telephonic round
+
+Diff between mtr and traceroute
+
+Df beteeen the nslookup and dig
+
+Dns expansion
+
+Purpose of DNS
+
+Where it is stored...
+
+Scenario:
+
+In URL I typed www.maps.coms
+
+It will not come up
+
+Trouble shooting steps 
+
+
+
+About application server and webserv
+
+Tool
+
+Process
+
+And then
+
+Rate your self in os administration
+
+
+
+ Samba configuration, port number and how it will work?
+ Multipath configuration and port number
+ Sendmail and receive mail
+ How to send mail someone from cmdline
+ How to see the files in particular package
+ I downloaded a package and I will update later through yum but where can I keep it package in yum
+ Rpcbind port number and use
+ How to check nfs data transferring
+ How to check user parameters or ulimit
+ Ulimit configuration
+ One customer not able to login in client,  what is the issue and how to resolve and what you have to ask customer?
+ Nfs deamons
+ Printer deamon, driver,  configuration,
+ If printer hangup how to resolve
+ Printer log file
+ How to check luns
+ What is multipath and configuration file
+ Multipath port number
+ How to take backup before updates the securities and how to restore
+ Physical how to restore backup file
+ /temp 2gb is looking full. But files are 1or 2kbs files only looking.  What is the reason and how to resolve it
+ What is yum.conf
+ How to check all posts are working? what is  command
+ How to change duplex of adapter
+ How to see the speed of all adapters
+ What is configuration of all adapters
+ And ips
+ How to see all modules
+what is your daily process
+what type of issues you got
+what type of network issues you get
+how can you solve the ssh is not available issue
+how can you log in to the console
+how can you apply the pachings remotely
+how can you configure the yum online/offline repositories 
+how can you register linux server with RHN 
+how to configure nfs service
+what is rpcbind purpose
+Root user is not able to write any file in the file system what could be the reason
+can you increase the SWAP Space ,if it is lvm how can you do, if it is standard partition how can you do
+1.what is ldap
+2.port no for ldap
+3.fields in vmstat
+4.how to check which process consuming more swap space
+5.how can you solve the issue ssh is not working 
+6.if ilo is not working how can you troubleshoot ssh problem
+7.what is initrd
+8.what will do after kernel loading
+9.how can you load the kernel modules
+10.what is the difference b/w kernel module and kernel driver
+11.there are 1000 packages installed how can you  make yum update by exclude 900 packages   
+12.how can you set user min no.of days to passwd change is 0 and max no.of days is 60
+13.how to set passwd length is min 6 max 10
+How to get the list of dependencies for specific rpm file and how to install rpm without dependencies?
+
+> What is the use of swap area and how to create swap partition?
+
+> Questions related to LVM -- scenario based and commands
+
+> What is a nice value & How to change the nice value of a process?
+
+> NFS -- scenario based & what are the options available and their usability?
+
+> Booting process
+
+> Basic questions on VCS and VXVM
+
+> fdisk command and its flags
+
+> About ILO
+
+> Runlevels and its scripts
+
+> How to do OS patching ?
+
+> About kickstart installation
+
+> Trouble shooting issues on os level ( for eg: user unable to login through ssh , system unable to boot )
+
+> Basic questions related to FTP
+
+> what is suid, sgid and sticky bit & how to use
+
+> ACL permissions
+
+> Search functions like grep, find ( find with all options )
+
+> Questions related to rpm & yum
+
+> Difference between ext3 and ext4 file systems
+
+> Cron tab fields
+
+> All the files related to user administration ( eg: /etc/passwd, /etc/group etc )
+
+> useradd, usermod, userdel, groupadd, groupdel and passwd commands
+
+> chage command
+
+> How to install packages without dependencies using yum?
+
+> how to install vmware tools ?
+
+> Server unable to come up due to kernel panic/ huge traffic .. resolution steps
+
+> How to do vulnerability check for the packages before going to install or upgrade the packages?
+
+> How will you acheive the security in OS build?
+
+> Server Hardening?
+
+> What are SOA records?
+
+> Why the /root partion is in RO mode when kernel load the OS?
+
+> How to assign password to the boot loader an hot will you recover the grub password incase you lost ?
+
+> Possible reasons of Grub failure and how to recover the failed Grub
+
+> What is IO fencing and why should we do IO fencing?
+
+> What is split brain condition in VCS?
+
+> What is the magic number in MBR ? What is the need of it?
+
+> Possible reasons of a filesystem went to RO mode and resolution steps?
+
+> Tell me one scenarion that you have resolved and got appreciated?
+
+> How to check the RH-Sattelite version?
+
+> Compatability scenarios when we try to do OS build or OS patching through RH-Sattelite server?
+
+> How to check the H/W information like HBA cards etc of the server?
+
+> How to check the listening ports
+
+> What are the port numbers of NFS daemons and how to check?
+
+> Why we do Ip alias ? what is the difference b/w Ip bonding and Ip alias?
+
+> How to share a NFS share to the client on demand?
+
+> How to get information about set of packages which are recently installed?
